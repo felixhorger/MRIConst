@@ -1,0 +1,4 @@
+name = "MRIConst"
+uuid = "261c5ebf-3ec9-40d5-9fcc-d6819a7ef2d0"
+authors = ["Felix Horger <felix.horger@kcl.ac.uk>"]
+version = "0.1.0"
