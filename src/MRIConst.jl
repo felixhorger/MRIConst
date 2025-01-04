@@ -3,8 +3,12 @@ module MRIConst
 
 	export γ
 
-	# Gyromagnetic ratio
-	const γ = 2.675222005e2 # [rad / (ms * mT)]
+	"""
+		const γ = 2.675222005e2
+		
+	Gyromagnetic ratio in units rad / (ms * mT)
+	"""
+	const γ = 2.675222005e2
 
 	const brainweb_parameter_names = [
 		"Background",
